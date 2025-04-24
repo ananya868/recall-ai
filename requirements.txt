@@ -1,0 +1,7 @@
+pydantic==2.10.6 
+rich==13.9.4
+crawl4ai==0.4.248
+pymupdf==1.25.5
+openai==1.68.2 
+whisper==1.1.10
+fireworks-ai==0.5.12

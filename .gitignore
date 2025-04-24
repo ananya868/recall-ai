@@ -6,7 +6,6 @@ __pycache__/
 # environments 
 .env
 
-
 # C extensions
 *.so
 
