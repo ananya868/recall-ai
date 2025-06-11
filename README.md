@@ -1,4 +1,4 @@
-# 🧠 AI Flash Card Generator CLI ⚡
+# AI Flash Card Generator CLI ⚡
 
 Generate custom educational flashcards from various sources using the power of AI! This interactive command-line tool allows you to create flashcards from text, images, audio files, PDFs, web links, specific topics, or even personalized based on a user's bio.
 
